@@ -43,7 +43,7 @@ yarn ios
    - useMovies for fetching movies data and selecting the movie
    - useWishlist for accessing and updating the wishlist
 - Created a simple router that only stores the current page accessed
-- Used ThemeProvider from styled-components in MovieDetails because it's the only place required to change the fonts depending on the list selected
+- Used ThemeProvider from styled-components in MovieDetails as an strategy to change the fonts depending on the list selected
 - Used react-testing-library for unit tests
 - Created a Common.tsx file for reused components across the app
 
