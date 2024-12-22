@@ -7,8 +7,8 @@ Works on iOS and Android. Focused on portrait mode
 
 Fee free to take a look at the demo in Appetize:
 
-- [Android](https://appetize.io/app/b_xh2ozfjx7mz6hqkqqljmya6ml4) Android OS
-- [iOS](https://appetize.io/app/b_xh2ozfjx7mz6hqkqqljmya6ml4) iOS
+- [Android](https://appetize.io/app/b_xh2ozfjx7mz6hqkqqljmya6ml4) device
+- [iOS](https://appetize.io/app/b_dv63ribql4jmeyuqnsiml34nwy) device
 
 ## Start app:
 
